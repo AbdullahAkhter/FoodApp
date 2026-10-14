@@ -63,7 +63,7 @@ const total = selectedItems.filter(
                     borderRadius:24,
                     backgroundColor:"white",
                     paddingLeft:12,
-                    paddingTop:5,
+                    paddingTop:5,jfjfjf
                     shadowColor:"rgba(0,0,0,0.4)",
                     shadowOffset:{width:2,height:2},
                     shadowRadius:4,
